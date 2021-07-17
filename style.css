@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova:ital@1&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Bona Nova', serif;
+    background: url('https://previews.123rf.com/images/pinkyrabbit/pinkyrabbit2003/pinkyrabbit200300028/142412551-happy-birthday-birthday-background-happy-birthday-lettering-party-background-vector-color-illustrati.jpg');
+    font-size: 2rem;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-left: 10rem;
+    margin-top: 16rem;
+}
+.text{
+    padding: 20px;
+}
+h3{
+    padding: 20px;
+}
+#hours{
+    padding: 20px;
+
+}
+#minutes{
+    padding: 20px;
+}
+#hours{
+    padding: 20px;
+}
+#seconds{
+    padding: 20px;
+}
+#days{
+    padding: 20px;
+    
+}
